@@ -1,5 +1,5 @@
 package com.cybertek.tests.git.branch;
 
-public class GitBranch {
-
+public class NewClass {
+    //Hello World
 }
